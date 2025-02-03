@@ -1,7 +1,6 @@
 
-# Exp-5 Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud
-#### Name :Sabari Akash
-#### Register Number : 212222230124
+ Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud
+
 # AIM:
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
 
@@ -28,7 +27,7 @@ Bread board </br>
 	Check all the green colour tick marks in gate way and proceed </br>
 
 ### Procedure for gateway registration in The thingsMate LoRaWAN Management </br>
-	Login https://iot.saveetha.in:4433 and provide the user id and password </br>
+
 	Go to overview and select application server </br>
 	Go to gateway and add new gateway </br>
 	Enter the gateway id, name, EUI and select frequency plan </br>
